@@ -1,0 +1,9 @@
+/sjb-*
+.*.sw?
+.DS_Store
+.gdb_history
+/*.a
+/*.d
+/*.o
+/core
+Session.vim
